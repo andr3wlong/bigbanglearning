@@ -1,3 +1,7 @@
 Good evening!
 This is new file to get conflictst.
 My name is DantaM.
+
+Hello!
+This it my file to train git and create conflicts.
+My name is Dana Maksiuta.
